@@ -36,7 +36,7 @@ export default function Content({count}) {
                 <div className='text-start'>
                     <h3 className='px-4'>How to play ?</h3>
                     <ul>
-                        <li>You will be asked mltiple choice questions.</li>
+                        <li>You will be asked multiple choice questions.</li>
                         <li>After selecting the answer you have to submit your answer.</li>
                         <li>You will be given a certain amount of time to submit the answer.</li>
                         <li>You will be given 60 seconds to submit your answer.</li>
